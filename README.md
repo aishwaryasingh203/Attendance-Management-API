@@ -2,20 +2,20 @@
 
 Ek lightweight FastAPI-based backend system jo attendance tracking aur role-based user management ke liye design kiya gaya hai.
 
-## 🚀 Tech Stack
+## Tech Stack
 - **Framework:** FastAPI
 - **Database:** MySQL
 - **ORM:** SQLAlchemy
 - **Security:** Bcrypt (Password Hashing)
 - **Validation:** Pydantic
 
-## 🛠 Features
+## Features
 - **User Management:** Create new users with role-based access.
 - **Secure Auth:** Password hashing implemented using bcrypt.
 - **Database Integration:** MySQL with SQLAlchemy for ORM.
 - **Error Handling:** Proper status codes (201 for success, 400 for existing emails).
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 1. Clone the repository:
    ```bash
