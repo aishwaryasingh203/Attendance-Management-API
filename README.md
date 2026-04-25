@@ -1,6 +1,6 @@
 # Attendance-Management-API
 
-Ek lightweight FastAPI-based backend system jo attendance tracking aur role-based user management ke liye design kiya gaya hai.
+A lightweight FastAPI-based backend system designed for attendance tracking and role-based user management.
 
 ## Tech Stack
 - **Framework:** FastAPI
