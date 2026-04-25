@@ -1,0 +1,8 @@
+-Personal Details-
+
+Name: Aishwarya Singh
+Email: aishwarya.singh.aishh@gmail.com
+Phone: 9892539085
+GitHub link: https://github.com/aishwaryasingh203/Attendance-Management-API
+
+Challenge: The most challenging part was implementing the token authentication.

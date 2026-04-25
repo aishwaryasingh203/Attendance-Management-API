@@ -2,12 +2,11 @@ from fastapi import FastAPI, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 from sqlalchemy.exc import IntegrityError
 
-# Import from 'src' directly, not 'Submission.src'
 from src.database import engine, get_db
 from src import models, schemas
 from src.hashing import Hash
 
-# Database tables create karna
+# Database tables 
 models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
