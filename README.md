@@ -45,24 +45,24 @@ Ek lightweight FastAPI-based backend system jo attendance tracking aur role-base
 
 **What is fully working:**
 
-User registration and login endpoints with JWT authentication.
+-User registration and login endpoints with JWT authentication.
 
-Password hashing using bcrypt for secure storage.
+-Password hashing using bcrypt for secure storage.
 
-Database connection with MySQL and SQLAlchemy.
+-Database connection with MySQL and SQLAlchemy.
 
-Input validation for user creation using Pydantic models.
+-Input validation for user creation using Pydantic models.
 
 **What is partially done / Pending:**
 
-Full test coverage for all edge cases is currently in progress.
+-Full test coverage for all edge cases is currently in progress.
 
-Bulk data management features are kept for future iterations to ensure core stability.
+-Bulk data management features are kept for future iterations to ensure core stability.
 
 **What I found most challenging:**
 
-Setting up the MySQL integration and managing database integrity constraints while ensuring the authentication flow remains secure.
+-Setting up the MySQL integration and managing database integrity constraints while ensuring the authentication  flow remains secure.
 
 **One thing I would do differently with more time:**
 
-I would implement asynchronous task processing for generating attendance reports to improve API response time and add comprehensive unit tests for all service layers.
+-I would implement asynchronous task processing for generating attendance reports to improve API response time and add comprehensive unit tests for all service layers.
