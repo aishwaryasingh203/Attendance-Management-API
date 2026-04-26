@@ -66,3 +66,5 @@ A lightweight FastAPI-based backend system designed for attendance tracking and 
 **One thing I would do differently with more time:**
 
 -I would implement asynchronous task processing for generating attendance reports to improve API response time and add comprehensive unit tests for all service layers.
+
+API documentation and testing interface are available at: https://attendance-management-api-production.up.railway.app//docs
